@@ -1,6 +1,6 @@
-# Ceres Vanilla – Ein Vanilla Theme für Ceres
+# MandasTheme – Ein Vanilla Theme für Ceres
 
-**Ceres Vanilla** ist ein einfaches Theme-Plugin, welches noch keine Design-Anpassungen für Ceres enthält. Mithilfe des Themes kann eigenes CSS in Ceres angezeigt werden. Zudem können Templates von Ceres durch eigene Templates überschrieben werden.
+**MandasTheme** ist ein einfaches Theme-Plugin, welches noch keine Design-Anpassungen für Ceres enthält. Mithilfe des Themes kann eigenes CSS in Ceres angezeigt werden. Zudem können Templates von Ceres durch eigene Templates überschrieben werden.
 
 ## Eigenes CSS anzeigen
 
